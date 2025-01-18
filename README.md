@@ -1,0 +1,1 @@
+# Selenide [![Java CI with Gradle](https://github.com/Pavel17489/Selenide/actions/workflows/gradle.yml/badge.svg)](https://github.com/Pavel17489/Selenide/actions/workflows/gradle.yml)
